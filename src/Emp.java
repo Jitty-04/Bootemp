@@ -37,6 +37,11 @@ public class Emp {
                 l.add(h);
 
                 break;
+            case 2:
+                System.out.println(l);
+            break;
+
+
 
 
 
